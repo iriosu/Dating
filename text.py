@@ -1,3 +1,3 @@
 import numpy
 
-print(range(10))
+print(range(20))
